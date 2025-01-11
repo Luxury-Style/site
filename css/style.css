@@ -271,9 +271,19 @@ header .top_header ul li:last-child {
   transition: all 0.2s ease-in-out;
 }
 /*------- Bottom Header ------*/
+
 .bottom_header {
-  padding: 35px 0 33px 0;
+  padding: 50px 0 50px 0; /* Увеличение верхнего и нижнего отступа */
+  min-height: 150px; /* Минимальная высота блока */
 }
+
+@media (max-width: 768px) {
+  .bottom_header {
+      padding: 30px 0 30px 0; /* Уменьшение отступов для мобильных устройств */
+      min-height: 180px; /* Минимальная высота блока для мобильных устройств */
+  }
+}
+
 .bottom_header .logo {
   margin-top:7px;
 }
