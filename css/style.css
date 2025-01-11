@@ -312,6 +312,40 @@ header .top_header ul li:last-child {
   margin-right: 0;
 }
 
+@media (max-width: 768px) {
+  .bottom_header {
+      padding: 15px 0 10px 0; /* Уменьшение верхних и нижних отступов */
+  }
+
+  .bottom_header .logo {
+      margin-top: 0; /* Уменьшение отступа сверху у логотипа */
+  }
+
+  .bottom_header ul li p,
+  .bottom_header ul li a {
+      line-height: 20px; /* Уменьшение межстрочного интервала */
+      font-size: 14px; /* Уменьшение размера шрифта */
+  }
+
+  .bottom_header ul.bottom_header_address > li {
+      margin-right: 20px; /* Уменьшение расстояния между элементами */
+  }
+
+  .bottom_header ul.bottom_header_address > li span.ficon {
+      font-size: 30px; /* Уменьшение размера иконок */
+      top: 0;
+  }
+
+  .bottom_header ul.bottom_header_address > li p {
+      margin-left: 40px; /* Уменьшение отступа слева у текста */
+  }
+
+  .bottom_header ul li a {
+      margin-right: 10px; /* Уменьшение отступа между ссылками */
+  }
+}
+
+
 /*======================= Theme Menu ====================*/
 .theme_menu {
   background: rgba(234,237,240,0.9);
