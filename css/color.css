@@ -44,9 +44,8 @@ footer .bottom_footer ul li a:hover,footer .bottom_footer p a,.about_us_main_con
 .shop_single_page .product_details .product-review-tab .add_your_review ul li:hover,.contact_page_address .carousel-inner .item h6,
 .shop_single_page .product_details .product-review-tab .item_review_content .text .sec_up ul li,.contact_page_address ul.social_icon li a,
 .shop_single_page .product_details .product_top_section .item_description>ul>li i,.contact_page_address .carousel-inner .item  ul li span:before,
-.account_page .single_checkbox input[type="checkbox"]:checked + label:before,.request_callBack .right_half button:hover, 
-#loader-wrapper #loader  {
-	color:#fd9b28;
+.account_page .single_checkbox input[type="checkbox"]:checked + label:before,.request_callBack .right_half button:hover  {
+	color:#24bbd0;
 }
 
 
@@ -68,7 +67,7 @@ footer .bottom_footer ul li a:hover,footer .bottom_footer p a,.about_us_main_con
 .cart .shop_cart_table button:hover,.cart_table .payment_system a:hover,.contact_page_address #contact-slider .carousel-indicators li.active,
 .testimonial .owl-theme .owl-dots .owl-dot.active span,.testimonial .owl-theme .owl-dots .owl-dot:hover span,.contact_us_form #error button,
 .contact_us_form #success button,.menuzord .showhide span,.switcher .switch_btn button,.switcher .switch_menu h5.title   {
-	background: #fd9b28;
+	background: #24bbd0;
 }
 
 
@@ -81,7 +80,7 @@ footer .bottom_footer ul li a:hover,footer .bottom_footer p a,.about_us_main_con
 .service-tab .nav-pills li.active a,.sidebar_categories ul li a:before,#related_project_slider .owl-nav [class*=owl-]:hover,
 #related_project_slider .owl-nav [class*=owl-]:hover:before,.team_grid .team_member .opacity:before,.team_grid .team_member .opacity:after,
 .testimonial .owl-theme .owl-dots .owl-dot span  {
-	border-color:#fd9b28;
+	border-color:#24bbd0;
 }
 
 
@@ -96,10 +95,10 @@ footer .bottom_footer ul li a:hover,footer .bottom_footer p a,.about_us_main_con
 	   /*_________ Content Secondary Color ________*/
 .color2,header .top_header ul li i,.hephaistos.tparrows:before,.testimonial .owl-item.center .item>span,.request_quote_footer a:hover,
 .team_grid .team_member .text ul li a:hover,.cart .shop_cart_table .table-1 tr td span.color2,.contact_page_address ul.social_icon li a:hover  {
-	color:#211a0f;
+	color:#121d2f;
 }
 .page_list li a:after {
-	color:#271f13;
+	color:#152235;
 }
 
 	   /*_______ Background for Secondary color ______*/
@@ -115,36 +114,36 @@ footer,.color2_bg,header .ui-state-default,.ui-state-hover,.ui-widget-content .u
 .shop_single_page .product_details .product-review-tab .add_your_review form button:hover, .shop_single_page .product_details .product-review-tab .nav li.active a,
 .shop_single_page .product_details .product_top_section .item_description>a:hover,.account_page form button:hover,
 .contact_page_address #contact-slider .carousel-indicators li  {
-	background: #211a0f;
+	background: #121d2f;
 }
 
 .request_quote .overlay,.our_service .item .overlay,.our_team .team_member .opacity,.sidebar_recent_project .overlay,
 .project_page .single_project .img_holder .overlay,.blog_page_wrapper .blog_post_single .img_holder .opacity,
 .blogList_view .blogList_single_post .img_holder .opacity,.team_grid .team_member .opacity {
-	background:rgba(33,26,15,0.9);
+	background:rgba(18,29,47,0.9);
 }
 .our_team .overlay {
-	background:rgba(33,26,15,0.96);
+	background:rgba(18,29,47,0.96);
 }
 .recent_news_sidebar .img_holder .opacity {
-	background:rgba(33,26,15,0.8);
+	background:rgba(18,29,47,0.8);
 }
 .request_callBack .left_half,footer .main_footer .footer_subscribe form input,.scroll-top,.page_list li a:before {
-  background: #271f13;
+  background: #152235;
 }
 footer .main_footer .footer_contact #carousel-demo .carousel-indicators li {
-	background: #332d23;
+	background: #1d2a3e;
 }
 
 	   	/*_______ Border for Secondary color ______*/
 
 .faq .faq_panel .panel-heading.active-panel .icon,.project_page .mixitUp_menu ul li:hover,
 .project_page .mixitUp_menu ul li.active {
-	border-color:#211a0f;
+	border-color:#121d2f;
 }
 .sidebar_testimonial .item>span {
-	border-top-color: #211a0f;
+	border-top-color: #121d2f;
 }
 footer .bottom_footer {
-	border-color:#271f13;
+	border-color:#152235;
 }

@@ -1,1 +1,1 @@
-# Meridion Partners site
+# Luxury Style FZCO site
